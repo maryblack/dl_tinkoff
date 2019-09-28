@@ -1,4 +1,4 @@
-# Решение домашних заданий по курсу "Deep Learning" Tinkoff
+# "Deep Learning" Tinkoff
 
 1) Морфинг изображений
 
